@@ -19,6 +19,9 @@ app.get('/fiend.handlebars',function (req,res) {
 app.get('/friend.handlebars',function (req,res) {
     res.render("friend");
 });
+app.get('/appweb.handlebars',function (req,res) {
+    res.render("friend",{layout:'appweb'});
+});
 
 app.get('/login.handlebars',function (req,res) {
     res.render("login",{layout: 'main',});
