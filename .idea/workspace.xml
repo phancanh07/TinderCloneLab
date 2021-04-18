@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b46970c1-7cd3-467b-87ee-47e89ab9f147" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sever Nodejs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sever Nodejs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/friend.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/friend.handlebars" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/appweb.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/appweb.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/indexmain.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/indexmain.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/main.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1qXu8GoCG6OQQ28N5KIDmpQjzHt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,6 +61,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,8 +71,8 @@
       <recent name="H:\WEB BOOTRAP\Sever Nodejs" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.table.html">
-    <configuration name="appweb.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sever Nodejs/views/layouts/appweb.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="appweb.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Sever Nodejs/views/layouts/appweb.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sever Nodejs/views/login.html" useBuiltInWebServerPort="true">
@@ -60,13 +81,24 @@
     <configuration name="messenger.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sever Nodejs/views/messenger.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="table.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sever Nodejs/table.html" useBuiltInWebServerPort="true">
+    <configuration name="table.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Sever Nodejs/table.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" application-parameters="$AffectedModuleNames$" node-parameters="$AffectedModuleNames$" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" application-parameters="$AffectedModuleNames$" nameIsGenerated="true" node-parameters="$AffectedModuleNames$" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.appweb.html" />
+      <item itemvalue="JavaScript Debug.table.html" />
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="JavaScript Debug.messenger.html" />
+      <item itemvalue="Node.js.index.js" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.table.html" />
-        <item itemvalue="JavaScript Debug.appweb.html" />
         <item itemvalue="JavaScript Debug.messenger.html" />
         <item itemvalue="JavaScript Debug.login.html" />
       </list>
@@ -85,6 +117,21 @@
       <workItem from="1617243682530" duration="11198000" />
       <workItem from="1617275903057" duration="2300000" />
       <workItem from="1617285205919" duration="7506000" />
+      <workItem from="1618410517053" duration="6334000" />
+      <workItem from="1618445882775" duration="4337000" />
+      <workItem from="1618493761953" duration="15809000" />
+      <workItem from="1618532394213" duration="645000" />
+      <workItem from="1618533066210" duration="2410000" />
+      <workItem from="1618535513340" duration="4000" />
+      <workItem from="1618535527321" duration="3457000" />
+      <workItem from="1618539632925" duration="6699000" />
+      <workItem from="1618560429471" duration="6868000" />
+      <workItem from="1618571523506" duration="17474000" />
+      <workItem from="1618596033926" duration="1505000" />
+      <workItem from="1618647309113" duration="365000" />
+      <workItem from="1618668204523" duration="15062000" />
+      <workItem from="1618725327533" duration="196000" />
+      <workItem from="1618725987925" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="da update phan package">
       <created>1617292735824</created>

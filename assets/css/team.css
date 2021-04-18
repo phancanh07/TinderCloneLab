@@ -1,9 +1,11 @@
 .al-team-box, .al-team-header {
     overflow:hidden;
+    height:80%;
 }
 .al-team-box .al-team-img {
     transition:all .4s;
     width:100%;
+
 }
 .al-team-box:hover .al-team-img {
     transform:rotate(10deg) scale(1.3);
